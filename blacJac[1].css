@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    color: white;
+    background-color: green;
+}
+#head
+{
+    color: goldenrod;
+}
+input
+{
+    background-color: goldenrod;
+    color: green;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    width: 120px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-bottom: 10px;
+}
+p{
+    font-style: italic;
+}
